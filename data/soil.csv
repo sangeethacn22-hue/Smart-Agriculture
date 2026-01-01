@@ -1,0 +1,9 @@
+Region,pH,Nitrogen_kg_ha,Phosphorus_kg_ha,Potassium_kg_ha,Organic_Carbon,Health_Status
+North,7.2,280,25,210,0.65,Good
+South,6.8,310,30,240,0.75,Excellent
+East,6.5,260,22,190,0.60,Fair
+West,7.5,240,20,180,0.55,Fair
+North,7.1,285,26,215,0.68,Good
+South,6.9,305,28,235,0.72,Excellent
+East,6.6,265,24,195,0.62,Good
+West,7.4,245,21,185,0.58,Fair

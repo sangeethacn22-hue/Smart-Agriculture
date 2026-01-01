@@ -1,0 +1,15 @@
+Crop,Region,Season,Yield_Tons,Area_Hectares,Year
+Rice,North,Kharif,3.5,1000,2023
+Wheat,North,Rabi,4.2,800,2023
+Cotton,South,Kharif,2.8,600,2023
+Rice,South,Kharif,4.0,1200,2023
+Maize,East,Kharif,3.2,500,2023
+Wheat,West,Rabi,3.8,700,2023
+Rice,North,Kharif,3.2,950,2022
+Wheat,North,Rabi,4.0,780,2022
+Cotton,South,Kharif,2.6,580,2022
+Rice,South,Kharif,3.8,1150,2022
+Rice,North,Kharif,3.0,900,2021
+Wheat,North,Rabi,3.8,750,2021
+Cotton,South,Kharif,2.4,550,2021
+Rice,South,Kharif,3.6,1100,2021
