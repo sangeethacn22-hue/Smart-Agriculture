@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Smart Agriculture Analytics Platform
 
 A full-stack web application for agriculture data visualization and analysis, featuring an AI-powered crop advisory system, interactive dashboards, and comprehensive analytics tools for farmers and agriculture officers.
@@ -234,3 +235,6 @@ The application includes:
 - User-friendly error messages
 - Loading states and indicators
 
+=======
+# Smart-Agriculture
+>>>>>>> c582509df98c91aa279bd7f02210a79939cc1c9c
